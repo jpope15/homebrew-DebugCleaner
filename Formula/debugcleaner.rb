@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class DebugCleaner < Formula
+class Debugcleaner < Formula
     desc "A convienent command line tool for removing debug statments from a file"
     homepage "https://github.com/jpope15/DebugCleaner"
     url "https://github.com/jpope15/DebugCleaner/releases/download/v1.0.0/debugcleaner-mac.tar.gz"
