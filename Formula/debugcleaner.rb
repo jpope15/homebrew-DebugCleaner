@@ -9,7 +9,7 @@ class DebugCleaner < Formula
     version "1.0.0"
   
     def install
-      bin.install "debugcleaner"
+      bin.install "DebugCleaner"
     end
   end
   
