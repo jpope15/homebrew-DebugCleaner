@@ -4,9 +4,9 @@
 class Debugcleaner < Formula
     desc "A convienent command line tool for removing debug statments from a file"
     homepage "https://github.com/jpope15/DebugCleaner"
-    url "https://github.com/jpope15/DebugCleaner/releases/download/v1.0.0/debugcleaner-mac.tar.gz"
-    sha256 "30d7383508c502e424d91990ea8743d5b092c030e322ae0756506a5a4989076f"
-    version "1.0.0"
+    url "https://github.com/jpope15/DebugCleaner/releases/download/v2.0.0/debugcleaner-mac.tar.gz"
+    sha256 "2e366d754f228838cd96a3847abd59c91554ed291a0e19313d3bc1050cc7353d"
+    version "2.0.0"
   
     def install
       bin.install "DebugCleaner"
